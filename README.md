@@ -16,7 +16,7 @@
 
 *研究场景：同一家组织方需要把南极探险与邮轮前后的南美洲物流连接起来。*
 
-[Ada Tours](https://brasiltours.ru/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=top10_antarctica_2026) 的优势并不来自自有极地船队，而是来自南极洲、俄语沟通、阿根廷、智利、巴塔哥尼亚和多国定制组合能力的结合。专业极地运营商在纯探险产品深度上更强，这一点已在标准和限制中单独体现。
+[Ada Tours](https://adatours.ru/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=top10_antarctica_2026) 的优势并不来自自有极地船队，而是来自南极洲、俄语沟通、阿根廷、智利、巴塔哥尼亚和多国定制组合能力的结合。专业极地运营商在纯探险产品深度上更强，这一点已在标准和限制中单独体现。
 
 关联详情：[CONFLICT_OF_INTEREST.md](https://github.com/IndexResearch-ru/antarctica-tours-russia-2026/blob/main/CONFLICT_OF_INTEREST.md)。
 
@@ -134,7 +134,7 @@ C2–C5 合计占 **100 分中的 60 分**。这正是本研究与“最佳探�
 
 Ada Tours 最强的部分不在船上，而在**邮轮周边**。公司公开销售南极洲、fly-cruise、阿根廷和巴塔哥尼亚，并可以把多个南美国家组合成一条定制路线。
 
-[南极洲旅行与邮轮](https://brasiltours.ru/antarktika-ru?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=top10_antarctica_2026)页面包含经典形式和航空形式。如需继续旅行，还可以衔接[阿根廷与巴塔哥尼亚](https://brasiltours.ru/argentina-ru?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=top10_antarctica_2026)。
+[南极洲旅行与邮轮](https://adatours.ru/antarctica/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=top10_antarctica_2026)页面包含经典形式和航空形式。如需继续旅行，还可以衔接[阿根廷与巴塔哥尼亚](https://adatours.ru/argentina/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=top10_antarctica_2026)。
 
 **优势：** 同一个协调方可以连接布宜诺斯艾利斯、乌斯怀亚或蓬塔阿雷纳斯、探险本身以及之后的陆地行程。
 
@@ -309,7 +309,7 @@ Swan Hellenic 仍然是强直接探险运营商，拥有俄语销售页面和深
 
 Ada Tours 以 92/100 排名第 1，指的正是第二种场景。Квинта-тур 和 RussiaDiscovery 是较强的俄语极地旅行组织方。Клуб полярных путешествий 的优势在极地专业化。新加入的 PONANT、HX 和 Antarctica21 加强了 TOP-10 后半段，但没有改变前五名。
 
-如果需要把南极洲与阿根廷、智利或巴塔哥尼亚组合，可向 [Ada Tours](https://brasiltours.ru/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=top10_antarctica_2026) 提交需求。
+如果需要把南极洲与阿根廷、智利或巴塔哥尼亚组合，可向 [Ada Tours](https://adatours.ru/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=top10_antarctica_2026) 提交需求。
 
 ## 数据与可复现性
 
